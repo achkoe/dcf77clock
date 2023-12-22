@@ -8,13 +8,17 @@ DCF77 clock with LED display using Raspberry Pi Pico.
 Software for Raspberry Pi Pico.
 
 
-# cad
+## cad
 
 Python files for generating SVG files for different parts
 of the case for the clock.
 
 
-# kicad
+## kicad
 
 KiCAD layout data for clock hardware.
 
+
+## simulator
+
+Python script to simulate DCF77 sequence on Raspberry Pi.
